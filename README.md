@@ -1,3 +1,8 @@
+# Un projet en collaboration avec les Archives Municipales de Lyon 
+
+![logo-AML](https://github.com/shnonbru/Lyon_urban_space/assets/114194206/8d3639af-9427-483c-a52a-38a55eb62216)
+
+
 # Femmes-de-Lyon
 Cyberfeminism 👩🏻‍💻 | Urban Spaces (Lyon): A Geo-Historical and Gender Data Analysis of Public Spaces. This project extends a data analysis initially conducted in June 2023. Our goal is to incorporate a temporal dimension to enhance the visibility of women in Lyon.
 
